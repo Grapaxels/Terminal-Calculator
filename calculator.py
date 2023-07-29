@@ -166,5 +166,6 @@ elif sign==("date"):
 
 else:
     print('Command not found')
-x=input('press enter to exit')  
-print('exited successfully')
+    print('Follow Grapaxels For More')
+x=input('Press Enter to exit')  
+print('Exited Successfully')
