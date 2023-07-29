@@ -166,6 +166,6 @@ elif sign==("date"):
 
 else:
     print('Command not found')
-    print('Follow Grapaxels For More')
+print('Follow Grapaxels For More')
 x=input('Press Enter to exit')  
 print('Exited Successfully')
